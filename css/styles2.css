@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    color: blue;
+    font-family: Arial;
+    font-size: 25px;
+    
+}
+
+h1{
+    color: green;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
