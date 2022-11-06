@@ -47,6 +47,7 @@ h3{
     border-color: rgb(209, 206, 206);
     border-width: 1px;
     padding: 15px;
+    background: linear-gradient(#e7e7e7, #f9f9f9, #ffffff, #f8fdfc, #e7e7e7)
 }
 
 .menu{
@@ -66,11 +67,13 @@ li{
 
 a{
     text-decoration: none;
-    background: #cbe783;
+    /* background: #cbe783; */
+    background: linear-gradient(#ffffff,#ffffff,#d3e9a7,#cbe783);
     display: block;
     text-align: center;
     padding: 5px;
     color: #6d8062;
+    border: solid 1px #cbe783;
 }
 
 .other a:hover {
@@ -80,4 +83,6 @@ a{
 .active {
     background: #e5cdb2;
     color: black;
+    border: solid 1px #e5cdb2;
+    background: linear-gradient(#ffffff,#ffffff,#e7d3bb,#e5cdb2);
 }
