@@ -1,0 +1,29 @@
+ul{
+    list-style: none;
+}
+
+body{
+    background: #FFF9EF;
+}
+
+h1{
+    width: 100vw;
+    background: #fcd699;
+}
+
+h2{
+    color: #2395d3;
+}
+
+.type1{
+    color: #5591af;
+}
+
+.type2{
+    color: #6A81A6;
+    font-weight: bolder;
+}
+
+.text{
+    color: #03050c;
+}
