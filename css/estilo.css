@@ -2,9 +2,32 @@
     border-style: solid;
     border-color: rgb(209, 206, 206);
     border-width: 8px 6px 16px 6px;
+    padding: 5px 15px 8px 15px;
 }
 
 h1{
     text-align: center;
     font-family: 'Lucida Sans Unicode';
+    color: #5f8f11;
+}
+
+h1 .color2-h1{
+    color: #bf823b;
+}
+
+h2{
+    color: #7fc93a;
+    font-family: 'Lucida Sans Unicode';
+    border-bottom: 1px solid #53a308;
+}
+
+.contenido{
+    border-style: solid;
+    border-color: rgb(209, 206, 206);
+    border-width: 1px;
+    padding: 15px;
+}
+
+ul{
+    margin-left: -15px;
 }
