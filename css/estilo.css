@@ -5,6 +5,13 @@
     padding: 5px 15px 8px 15px;
 }
 
+.container2{
+    border-style: solid;
+    border-color: rgb(209, 206, 206);
+    border-width: 6px;
+    padding: 5px 15px 8px 15px;
+}
+
 h1{
     text-align: center;
     font-family: 'Lucida Sans Unicode';
@@ -21,6 +28,9 @@ h2{
     border-bottom: 1px solid #53a308;
 }
 
+h3{
+    color: #bf823b;
+}
 .contenido{
     border-style: solid;
     border-color: rgb(209, 206, 206);
