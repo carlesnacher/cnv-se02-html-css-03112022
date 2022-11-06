@@ -17,6 +17,11 @@
     grid-template-columns: 10% auto;
 }
 
+img{
+    width: 92vw;
+    padding: 5px 5px;
+}
+
 h1{
     margin-left: 11%;
     font-family: 'Lucida Sans Unicode';
