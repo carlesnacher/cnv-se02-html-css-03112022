@@ -25,3 +25,8 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 [Ejercicio 9](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex9/)
 
 [Ejercicio 10](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex10/)
+
+
+## Licencia
+
+Este repositorio contiene la Licencia MIT.
