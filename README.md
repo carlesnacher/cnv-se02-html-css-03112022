@@ -14,7 +14,7 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 [Ejercicio 4](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex4/platosemana.html)
 
-[Ejercicio 5](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex5/)
+[Ejercicio 5](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex5/postresemana.html)
 
 [Ejercicio 6](https://carlesnacher.github.io/cnv-se02-html-css-03112022/parquenatural/)
 
