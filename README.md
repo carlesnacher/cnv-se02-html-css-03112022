@@ -8,7 +8,7 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 [Ejercicio 1](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex1/)
 
-[Ejercicio 2](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex2/)
+[Ejercicio 2](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex2/ejercicio.html)
 
 [Ejercicio 3](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex3/)
 
